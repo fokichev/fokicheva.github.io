@@ -1,6 +1,8 @@
-# Testing!
+# Testing merge conflicts!
 
+Different text!!!
 Hello world!
+Problem resolved!
 
 # Welcome to GitHub
 
